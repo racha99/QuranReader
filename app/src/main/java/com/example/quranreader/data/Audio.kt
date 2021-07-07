@@ -1,4 +1,6 @@
 package com.example.quranreader.data
 
-class Audio {
-}
+class Audio (
+
+    var url: String,
+        )

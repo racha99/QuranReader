@@ -1,6 +1,6 @@
 package com.example.quranreader.data
 
-class Translation (
+class Translations (
         var resource_id:Int,
         var text :String
         )
